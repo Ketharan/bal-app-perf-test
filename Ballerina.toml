@@ -2,7 +2,7 @@
 org = "ketharan"
 name = "bal_app_perf_test"
 version = "0.1.0"
-distribution = "2201.3.2"
+distribution = "2201.5.0"
 
 [build-options]
 observabilityIncluded = true
